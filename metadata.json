@@ -1,0 +1,956 @@
+[
+  {
+    "bestandsnaam": "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+    "auteur": "Wouter De Clercq",
+    "functie_auteur": "HR-directeur",
+    "aanmaakdatum": "2026-09-08",
+    "laatst_gewijzigd": "2026-09-10",
+    "status": "ondertekend",
+    "versie": "definitief (AO-2026-0412)",
+    "aantal_keer_geopend": 14,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "artikel",
+      "werknemer",
+      "payroll",
+      "overeenkomst",
+      "duur",
+      "ondertekend",
+      "werkgever",
+      "bedienden"
+    ],
+    "bevestigd_door": [
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Opleidingsplan_2026_v1.3.xlsx"
+    ],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_v2_kopie.docx",
+      "Sjabloon_Arbeidsovereenkomst_Bediende_2012.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Arbeidsovereenkomst_Eline_Maes_v2_kopie.docx",
+    "auteur": "Evi Lemmens",
+    "functie_auteur": "HR-administratie",
+    "aanmaakdatum": "2026-09-02",
+    "laatst_gewijzigd": "2026-09-03",
+    "status": "onbekend (niet ondertekend)",
+    "versie": "'versie 2' (onduidelijk)",
+    "aantal_keer_geopend": 6,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "artikel",
+      "werknemer",
+      "payroll",
+      "overeenkomst",
+      "duur",
+      "werkgever",
+      "bedienden",
+      "onbepaalde"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Onboarding_Checklist_v4.0.xlsx"
+    ]
+  },
+  {
+    "bestandsnaam": "Arbeidsreglement_Arvelia_v2026-01.pdf",
+    "auteur": "Wouter De Clercq",
+    "functie_auteur": "HR-directeur",
+    "aanmaakdatum": "2025-12-18",
+    "laatst_gewijzigd": "2025-12-18",
+    "status": "goedgekeurd",
+    "versie": "2026-01",
+    "aantal_keer_geopend": 412,
+    "aantal_bronvermeldingen": 8,
+    "kernwoorden": [
+      "hoofdstuk",
+      "goedgekeurd",
+      "werknemers",
+      "arbeidsreglement",
+      "onderneming",
+      "maximaal",
+      "hr-directeur",
+      "werknemer"
+    ],
+    "bevestigd_door": [
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md",
+      "Verlofbeleid_2026_v3.0.docx"
+    ],
+    "tegengesproken_door": [
+      "Email_Teamlead_Thuiswerk_3dagen.eml",
+      "Sjabloon_Arbeidsovereenkomst_Bediende_2012.docx",
+      "Verlofbeleid_2019_v1.2.pdf"
+    ]
+  },
+  {
+    "bestandsnaam": "CV_Thomas_Verhaegen.pdf",
+    "auteur": "Thomas Verhaegen",
+    "functie_auteur": "Kandidaat (extern)",
+    "aanmaakdatum": "2026-08-29",
+    "laatst_gewijzigd": "2026-08-29",
+    "status": "ingediend",
+    "versie": "",
+    "aantal_keer_geopend": 12,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "verhaegen",
+      "business",
+      "partner",
+      "sociaal",
+      "recruiter",
+      "management",
+      "mechelen",
+      "example"
+    ],
+    "bevestigd_door": [
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Privacyverklaring_Sollicitanten_v1.4.pdf",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Email_Anoniem_Geruchten_Reorganisatie.eml",
+    "auteur": "",
+    "functie_auteur": "Anoniem",
+    "aanmaakdatum": "2026-09-24",
+    "laatst_gewijzigd": "2026-09-24",
+    "status": "informeel",
+    "versie": "",
+    "aantal_keer_geopend": 97,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "gehoord",
+      "anoniem",
+      "problemen",
+      "boven",
+      "antwerpen",
+      "tegen",
+      "zomer",
+      "dichtgaat"
+    ],
+    "bevestigd_door": [
+      "notities_bonus_voordelen.txt"
+    ],
+    "tegengesproken_door": [
+      "Exitgesprek_Sofie_Janssens_2026-08.docx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Thuiswerkbeleid_v2.1_intranet.md"
+    ]
+  },
+  {
+    "bestandsnaam": "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+    "auteur": "Evi Lemmens",
+    "functie_auteur": "HR-administratie",
+    "aanmaakdatum": "2026-09-11",
+    "laatst_gewijzigd": "2026-09-11",
+    "status": "verzonden",
+    "versie": "",
+    "aantal_keer_geopend": 4,
+    "aantal_bronvermeldingen": 3,
+    "kernwoorden": [
+      "welkom",
+      "praktische",
+      "ondertekende",
+      "arbeidsovereenkomst",
+      "ao-2026-0412",
+      "informatie",
+      "werkdag",
+      "startdatum"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Opleidingsplan_2026_v1.3.xlsx",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md",
+      "Verlofbeleid_2026_v3.0.docx"
+    ],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_v2_kopie.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Email_Teamlead_Thuiswerk_3dagen.eml",
+    "auteur": "Bram Wuyts",
+    "functie_auteur": "Teamlead Payroll",
+    "aanmaakdatum": "2026-09-18",
+    "laatst_gewijzigd": "2026-09-18",
+    "status": "informeel",
+    "versie": "",
+    "aantal_keer_geopend": 41,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "weekend",
+      "nieuws",
+      "thuiswerk",
+      "mondeling",
+      "wouter",
+      "besproken",
+      "thuiswerken",
+      "kerndagen"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Thuiswerkbeleid_v2.1_intranet.md"
+    ]
+  },
+  {
+    "bestandsnaam": "Exitgesprek_Sofie_Janssens_2026-08.docx",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2026-08-27",
+    "laatst_gewijzigd": "2026-08-28",
+    "status": "definitief",
+    "versie": "definitief",
+    "aantal_keer_geopend": 11,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "redenen",
+      "leidinggevende",
+      "uitdiensttreding",
+      "gesprek",
+      "exitgesprek",
+      "vertrek",
+      "aanvaardde",
+      "functie"
+    ],
+    "bevestigd_door": [
+      "Notulen_Ondernemingsraad_2026-09-08.pdf"
+    ],
+    "tegengesproken_door": [
+      "Email_Anoniem_Geruchten_Reorganisatie.eml"
+    ]
+  },
+  {
+    "bestandsnaam": "Facility_Mededeling_Parkeerwerken_Oktober.md",
+    "auteur": "Nadia El Amrani",
+    "functie_auteur": "Facility Manager",
+    "aanmaakdatum": "2026-09-28",
+    "laatst_gewijzigd": "2026-09-28",
+    "status": "gepubliceerd",
+    "versie": "",
+    "aantal_keer_geopend": 72,
+    "aantal_bronvermeldingen": 2,
+    "kernwoorden": [
+      "parking",
+      "zetel",
+      "facility",
+      "achterzijde",
+      "plaatsen",
+      "facility-mededeling",
+      "werken",
+      "nadia"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Factuur_2026-0917_Garage_Vermeulen.pdf",
+    "auteur": "Ines Aerts",
+    "functie_auteur": "Boekhouding",
+    "aanmaakdatum": "2026-09-17",
+    "laatst_gewijzigd": "2026-09-17",
+    "status": "definitief",
+    "versie": "2026-0917",
+    "aantal_keer_geopend": 8,
+    "aantal_bronvermeldingen": 2,
+    "kernwoorden": [
+      "factuur",
+      "werkplaatschef",
+      "kandidaat",
+      "boekhouding",
+      "factuurnummer",
+      "factuurdatum",
+      "vervaldatum",
+      "klant"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2026-06-01",
+    "laatst_gewijzigd": "2026-06-08",
+    "status": "goedgekeurd",
+    "versie": "2.0",
+    "aantal_keer_geopend": 54,
+    "aantal_bronvermeldingen": 3,
+    "kernwoorden": [
+      "payroll",
+      "consultant",
+      "loonbrieven",
+      "sociaal",
+      "secretariaat",
+      "kennis",
+      "loonschalen",
+      "goedgekeurd"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Opleidingsplan_2026_v1.3.xlsx"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Functioneringsgesprek_2026_Pieter_Claes.docx",
+    "auteur": "Ann Sterckx",
+    "functie_auteur": "Manager Recruitment",
+    "aanmaakdatum": "2026-06-18",
+    "laatst_gewijzigd": "2026-06-21",
+    "status": "definitief",
+    "versie": "definitief",
+    "aantal_keer_geopend": 7,
+    "aantal_bronvermeldingen": 2,
+    "kernwoorden": [
+      "ondertekend",
+      "junior",
+      "recruiters",
+      "administratieve",
+      "piekperiodes",
+      "recruitment",
+      "claes",
+      "leidinggevende"
+    ],
+    "bevestigd_door": [
+      "Opleidingsplan_2026_v1.3.xlsx"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+    "auteur": "Stijn Dewulf",
+    "functie_auteur": "IT-servicedesk",
+    "aanmaakdatum": "2026-09-15",
+    "laatst_gewijzigd": "2026-09-21",
+    "status": "in behandeling",
+    "versie": "INC-2026-4471",
+    "aantal_keer_geopend": 5,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "laptop",
+      "payroll",
+      "consultant",
+      "inc-2026-4471",
+      "accounts",
+      "aanvraag",
+      "ticketnummer",
+      "aangevraagd"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Opleidingsplan_2026_v1.3.xlsx"
+    ],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_v2_kopie.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Loonschalen_2026_v2026.1.xlsx",
+    "auteur": "Filip Goossens",
+    "functie_auteur": "CFO (i.s.m. HR-directeur)",
+    "aanmaakdatum": "2026-01-08",
+    "laatst_gewijzigd": "2026-01-12",
+    "status": "goedgekeurd",
+    "versie": "2026.1",
+    "aantal_keer_geopend": 173,
+    "aantal_bronvermeldingen": 6,
+    "kernwoorden": [
+      "payroll",
+      "consultant",
+      "sectorale",
+      "recruiter",
+      "jaarlijks",
+      "klasse",
+      "junior",
+      "senior"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "CV_Thomas_Verhaegen.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Opleidingsplan_2026_v1.3.xlsx",
+      "Privacyverklaring_Sollicitanten_v1.4.pdf",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": [
+      "Sjabloon_Arbeidsovereenkomst_Bediende_2012.docx",
+      "notities_bonus_voordelen.txt"
+    ]
+  },
+  {
+    "bestandsnaam": "Lunchmenu_Week40_2026.txt",
+    "auteur": "Smaakmakers Catering",
+    "functie_auteur": "Externe cateraar",
+    "aanmaakdatum": "2026-09-25",
+    "laatst_gewijzigd": "2026-09-25",
+    "status": "gepubliceerd",
+    "versie": "week 40",
+    "aantal_keer_geopend": 184,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "soep",
+      "dagschotel",
+      "veggie",
+      "spaghetti",
+      "bedrijfsrestaurant",
+      "kantine",
+      "zetel",
+      "weekmenu"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Memo_HR_Ecocheques_2026.docx",
+    "auteur": "Wouter De Clercq",
+    "functie_auteur": "HR-directeur",
+    "aanmaakdatum": "2026-05-19",
+    "laatst_gewijzigd": "2026-05-20",
+    "status": "definitief",
+    "versie": "MEMO-HR-2026-07",
+    "aantal_keer_geopend": 146,
+    "aantal_bronvermeldingen": 3,
+    "kernwoorden": [
+      "ecocheques",
+      "sectorale",
+      "maaltijdcheques",
+      "referteperiode",
+      "herinnering",
+      "arbeidsreglement",
+      "hoofdstuk",
+      "wouter"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx"
+    ],
+    "tegengesproken_door": [
+      "Email_Anoniem_Geruchten_Reorganisatie.eml",
+      "notities_bonus_voordelen.txt"
+    ]
+  },
+  {
+    "bestandsnaam": "Nieuwsbrief_CloudDesk_Pro_September.eml",
+    "auteur": "CloudDesk Pro (marketing)",
+    "functie_auteur": "Externe leverancier",
+    "aanmaakdatum": "2026-09-16",
+    "laatst_gewijzigd": "2026-09-16",
+    "status": "extern/commercieel",
+    "versie": "",
+    "aantal_keer_geopend": 3,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "clouddesk",
+      "administratie",
+      "korting",
+      "e-mail",
+      "nieuwsbrief",
+      "ondernemer",
+      "herfst",
+      "begonnen"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "notities_bonus_voordelen.txt",
+    "auteur": "",
+    "functie_auteur": "",
+    "aanmaakdatum": "",
+    "laatst_gewijzigd": "2026-04-02",
+    "status": "onbekend",
+    "versie": "",
+    "aantal_keer_geopend": 15,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "bonus",
+      "vragen",
+      "notities",
+      "voordelen",
+      "ecocheques",
+      "afgeschaft",
+      "gehoord",
+      "refter"
+    ],
+    "bevestigd_door": [
+      "Email_Anoniem_Geruchten_Reorganisatie.eml",
+      "Verlofbeleid_2019_v1.2.pdf"
+    ],
+    "tegengesproken_door": [
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Verlofbeleid_2026_v3.0.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Notulen_Ondernemingsraad_2026-09-08.pdf",
+    "auteur": "An Vos",
+    "functie_auteur": "Secretaris OR (werknemersvertegenwoordiger)",
+    "aanmaakdatum": "2026-09-10",
+    "laatst_gewijzigd": "2026-09-22",
+    "status": "goedgekeurd",
+    "versie": "2026-07",
+    "aantal_keer_geopend": 58,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "notulen",
+      "vergadering",
+      "ondernemingsraad",
+      "goedgekeurd",
+      "werknemersafvaardiging",
+      "voorzitter",
+      "katrien",
+      "secretaris"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "CV_Thomas_Verhaegen.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Exitgesprek_Sofie_Janssens_2026-08.docx",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Privacyverklaring_Sollicitanten_v1.4.pdf",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md",
+      "Ziekteverzuimrapport_Q2_2026.pdf"
+    ],
+    "tegengesproken_door": [
+      "Email_Anoniem_Geruchten_Reorganisatie.eml",
+      "Email_Teamlead_Thuiswerk_3dagen.eml",
+      "verzuim_cijfers_snel.csv"
+    ]
+  },
+  {
+    "bestandsnaam": "Offerte_OFF-2026-0931_Bakkerij_De_Smet.pdf",
+    "auteur": "Kris Mertens",
+    "functie_auteur": "Sales Manager",
+    "aanmaakdatum": "2026-09-22",
+    "laatst_gewijzigd": "2026-09-22",
+    "status": "verzonden",
+    "versie": "OFF-2026-0931",
+    "aantal_keer_geopend": 19,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "offerte",
+      "smet",
+      "off-2026-0931",
+      "bakkerij",
+      "loonverwerking",
+      "juridische",
+      "helpdesk",
+      "prijzen"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Onboarding_Checklist_v4.0.xlsx",
+    "auteur": "Evi Lemmens",
+    "functie_auteur": "HR-administratie",
+    "aanmaakdatum": "2026-08-20",
+    "laatst_gewijzigd": "2026-09-21",
+    "status": "goedgekeurd",
+    "versie": "4.0",
+    "aantal_keer_geopend": 131,
+    "aantal_bronvermeldingen": 5,
+    "kernwoorden": [
+      "hr-administratie",
+      "payroll",
+      "leidinggevende",
+      "opleidingsplan",
+      "arbeidsovereenkomst",
+      "ondertekend",
+      "dimona-aangifte",
+      "laptop"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Memo_HR_Ecocheques_2026.docx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Opleidingsplan_2026_v1.3.xlsx",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md",
+      "Verlofbeleid_2026_v3.0.docx"
+    ],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_v2_kopie.docx",
+      "Verlofbeleid_2019_v1.2.pdf"
+    ]
+  },
+  {
+    "bestandsnaam": "Opleidingsplan_2026_v1.3.xlsx",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2026-02-10",
+    "laatst_gewijzigd": "2026-07-01",
+    "status": "goedgekeurd",
+    "versie": "1.3",
+    "aantal_keer_geopend": 76,
+    "aantal_bronvermeldingen": 3,
+    "kernwoorden": [
+      "payroll",
+      "kmo-portefeuille",
+      "sociale",
+      "recruitment",
+      "provizo",
+      "edpb",
+      "ehbo",
+      "arbeidsdeal"
+    ],
+    "bevestigd_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Functieomschrijving_Payroll_Consultant_v2.0.docx",
+      "Functioneringsgesprek_2026_Pieter_Claes.docx",
+      "IT_Ticket_INC-2026-4471_Laptop_Nieuwe_Medewerker.eml",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Onboarding_Checklist_v4.0.xlsx"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Privacyverklaring_Sollicitanten_v1.4.pdf",
+    "auteur": "Jonas Verbeke",
+    "functie_auteur": "Functionaris voor gegevensbescherming (DPO)",
+    "aanmaakdatum": "2025-10-28",
+    "laatst_gewijzigd": "2025-11-01",
+    "status": "goedgekeurd",
+    "versie": "1.4",
+    "aantal_keer_geopend": 61,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "toestemming",
+      "gegevens",
+      "verwerken",
+      "privacyverklaring",
+      "sollicitanten",
+      "goedgekeurd",
+      "persoonsgegevens",
+      "wervingsreserve"
+    ],
+    "bevestigd_door": [
+      "CV_Thomas_Verhaegen.pdf",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Recept_Stoofvlees_Oma.docx",
+    "auteur": "Pieter Claes",
+    "functie_auteur": "Senior Recruiter (privédocument)",
+    "aanmaakdatum": "2021-11-03",
+    "laatst_gewijzigd": "2021-11-03",
+    "status": "privé",
+    "versie": "",
+    "aantal_keer_geopend": 2,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "vlees",
+      "uien",
+      "sneden",
+      "bruin",
+      "brood",
+      "mosterd",
+      "tijm",
+      "suiker"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Sjabloon_Arbeidsovereenkomst_Bediende_2012.docx",
+    "auteur": "Marc Hendrickx",
+    "functie_auteur": "HR-manager (niet meer in dienst)",
+    "aanmaakdatum": "2012-03-14",
+    "laatst_gewijzigd": "2012-03-20",
+    "status": "gearchiveerd",
+    "versie": "maart 2012",
+    "aantal_keer_geopend": 3,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "artikel",
+      "bediende",
+      "bedienden",
+      "functie",
+      "proefperiode",
+      "overeenkomst",
+      "opzegging",
+      "bedraagt"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": [
+      "Arbeidsovereenkomst_Eline_Maes_ondertekend.docx",
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Loonschalen_2026_v2026.1.xlsx"
+    ]
+  },
+  {
+    "bestandsnaam": "Thuiswerkbeleid_CONCEPT_v0.3.docx",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2026-08-28",
+    "laatst_gewijzigd": "2026-09-12",
+    "status": "concept",
+    "versie": "0.3",
+    "aantal_keer_geopend": 23,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "thuiswerk",
+      "thuiswerkbeleid",
+      "herziening",
+      "beleid",
+      "concept",
+      "verspreiden",
+      "werkversie",
+      "werkgroep"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": [
+      "Thuiswerkbeleid_v2.1_intranet.md"
+    ]
+  },
+  {
+    "bestandsnaam": "Thuiswerkbeleid_v2.1_intranet.md",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner (eigenaar: HR-directeur)",
+    "aanmaakdatum": "2025-02-20",
+    "laatst_gewijzigd": "2026-09-02",
+    "status": "goedgekeurd",
+    "versie": "2.1",
+    "aantal_keer_geopend": 198,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "thuiswerk",
+      "telewerk",
+      "advies",
+      "ondernemingsraad",
+      "beleid",
+      "structureel",
+      "goedgekeurd",
+      "myarvelia"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": [
+      "Email_Anoniem_Geruchten_Reorganisatie.eml",
+      "Email_Teamlead_Thuiswerk_3dagen.eml",
+      "Thuiswerkbeleid_CONCEPT_v0.3.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Vacature_HR_Business_Partner_VAC-2026-014.md",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2026-08-25",
+    "laatst_gewijzigd": "2026-08-25",
+    "status": "gepubliceerd",
+    "versie": "VAC-2026-014",
+    "aantal_keer_geopend": 88,
+    "aantal_bronvermeldingen": 1,
+    "kernwoorden": [
+      "business",
+      "partner",
+      "recruitment",
+      "gesprek",
+      "vacature",
+      "referentie",
+      "vac-2026-014",
+      "gepubliceerd"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "CV_Thomas_Verhaegen.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Facility_Mededeling_Parkeerwerken_Oktober.md",
+      "Loonschalen_2026_v2026.1.xlsx",
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Privacyverklaring_Sollicitanten_v1.4.pdf",
+      "Thuiswerkbeleid_v2.1_intranet.md",
+      "Verlofbeleid_2026_v3.0.docx"
+    ],
+    "tegengesproken_door": []
+  },
+  {
+    "bestandsnaam": "Verlofbeleid_2019_v1.2.pdf",
+    "auteur": "Marc Hendrickx",
+    "functie_auteur": "HR-manager (niet meer in dienst)",
+    "aanmaakdatum": "2019-02-01",
+    "laatst_gewijzigd": "2019-02-01",
+    "status": "verouderd",
+    "versie": "1.2",
+    "aantal_keer_geopend": 9,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "verlof",
+      "hendrickx",
+      "wettelijke",
+      "verlofregeling",
+      "vakantiedagen",
+      "extralegale",
+      "verlofdagen",
+      "klein"
+    ],
+    "bevestigd_door": [
+      "notities_bonus_voordelen.txt"
+    ],
+    "tegengesproken_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Verlofbeleid_2026_v3.0.docx"
+    ]
+  },
+  {
+    "bestandsnaam": "Verlofbeleid_2026_v3.0.docx",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner",
+    "aanmaakdatum": "2025-11-20",
+    "laatst_gewijzigd": "2026-01-15",
+    "status": "goedgekeurd",
+    "versie": "3.0",
+    "aantal_keer_geopend": 287,
+    "aantal_bronvermeldingen": 4,
+    "kernwoorden": [
+      "wettelijke",
+      "verlof",
+      "extralegale",
+      "vakantiedagen",
+      "vakantie",
+      "omstandigheidsverlof",
+      "sluiting",
+      "advies"
+    ],
+    "bevestigd_door": [
+      "Arbeidsreglement_Arvelia_v2026-01.pdf",
+      "Email_HR_Bevestiging_Startdatum_Eline_Maes.eml",
+      "Onboarding_Checklist_v4.0.xlsx",
+      "Vacature_HR_Business_Partner_VAC-2026-014.md"
+    ],
+    "tegengesproken_door": [
+      "Verlofbeleid_2019_v1.2.pdf",
+      "notities_bonus_voordelen.txt"
+    ]
+  },
+  {
+    "bestandsnaam": "verzuim_cijfers_snel.csv",
+    "auteur": "",
+    "functie_auteur": "",
+    "aanmaakdatum": "",
+    "laatst_gewijzigd": "2026-07-03",
+    "status": "onbekend",
+    "versie": "",
+    "aantal_keer_geopend": 37,
+    "aantal_bronvermeldingen": 0,
+    "kernwoorden": [
+      "verzuim",
+      "payroll",
+      "griep",
+      "recruitment",
+      "sales",
+      "finance",
+      "lang",
+      "ziek"
+    ],
+    "bevestigd_door": [],
+    "tegengesproken_door": [
+      "Notulen_Ondernemingsraad_2026-09-08.pdf",
+      "Ziekteverzuimrapport_Q2_2026.pdf"
+    ]
+  },
+  {
+    "bestandsnaam": "Ziekteverzuimrapport_Q2_2026.pdf",
+    "auteur": "Lotte Peeters",
+    "functie_auteur": "HR Business Partner (i.s.m. preventieadviseur)",
+    "aanmaakdatum": "2026-07-10",
+    "laatst_gewijzigd": "2026-07-14",
+    "status": "definitief",
+    "versie": "1.0",
+    "aantal_keer_geopend": 49,
+    "aantal_bronvermeldingen": 3,
+    "kernwoorden": [
+      "verzuimpercentage",
+      "verzuim",
+      "ziekteverzuimrapport",
+      "definitief",
+      "preventieadviseur",
+      "payroll",
+      "cijfers",
+      "kalenderdagen"
+    ],
+    "bevestigd_door": [
+      "Notulen_Ondernemingsraad_2026-09-08.pdf"
+    ],
+    "tegengesproken_door": [
+      "verzuim_cijfers_snel.csv"
+    ]
+  }
+]
